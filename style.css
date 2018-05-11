@@ -1,9 +1,16 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>A Nice Website</title>
-	</head>
-	<body>
-		
-	</body>
-</html>
+body {
+	background-color: #EEEEEE;
+	font-family: Helvetica, Aria, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #63ff6d;
+}
+
+#content {
+	background-color: #FFFFFF;
+	border-radius: 25px
+	margin-left: auto;
+	margin-right: auto;
+}
